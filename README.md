@@ -43,7 +43,7 @@ Todos os scripts são **open-source** e podem ser usados, modificados e redistri
 - Plugins recomendados:  
   - `sscanf`  
   - `streamer`  
-  - `mysql` (se houver sistemas com DB)  
+  - `mysql` (quando houver no script sistemas com DB)  
 
 ---
 
