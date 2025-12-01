@@ -11,7 +11,7 @@ Este repositório reúne diversos scripts e sistemas criados para facilitar o de
 - Referência para desenvolvedores intermediários  
 - Biblioteca para quem quer adicionar recursos rapidamente ao servidor  
 
-Todos os scripts são **open-source** e podem ser usados, modificados e redistribuídos livremente (seguindo a licença escolhida).
+Todos os scripts são **open-source** e podem ser usados, modificados e redistribuídos livremente.
 
 ---
 
@@ -51,7 +51,7 @@ Todos os scripts são **open-source** e podem ser usados, modificados e redistri
 
 1. Baixe ou clone o repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/samp-open-scripts
+   git clone https://github.com/g4611802-commits/SA-MP-Open-Scripts/
 
 2. Edite ou compile os scripts:
 
@@ -76,8 +76,6 @@ Todos os scripts são **open-source** e podem ser usados, modificados e redistri
 ## 📚 Documentação
 Cada script possui comentários internos explicando o funcionamento.
 A pasta /docs também pode conter manuais e tutoriais extras.
-
-Se quiser, posso gerar documentação automática estilo wiki.
 
 ---
 
