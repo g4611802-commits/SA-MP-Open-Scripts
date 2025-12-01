@@ -96,7 +96,6 @@ Aguarde aprovação 🎉
 
 ## 📝 Licença
 Este projeto está sob a licença MIT — permitindo uso livre, inclusive comercial.
-(Se quiser, posso trocar para GPL, CC, Apache, BSD ou outra.)
 
 ---
 
