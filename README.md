@@ -15,7 +15,7 @@ Todos os scripts são **open-source** e podem ser usados, modificados e redistri
 
 ---
 
-## 🧩 Conteúdo
+## 📂 Conteúdo
 ✔️ Sistemas completos (UX com dialogs, salvamento, timers, validações)  
 ✔️ Comandos úteis para administração e gameplay  
 ✔️ Algoritmos otimizados em Pawn  
@@ -33,9 +33,6 @@ Todos os scripts são **open-source** e podem ser usados, modificados e redistri
 /gamemodes/ → Gamemodes completos
 /docs/ → Documentação adicional
 /build/ → Versões compiladas (.amx)
-
-yaml
-Copiar código
 
 ---
 
@@ -55,31 +52,36 @@ Copiar código
 1. Baixe ou clone o repositório:
    ```bash
    git clone https://github.com/SEU_USUARIO/samp-open-scripts
-Edite ou compile os scripts:
 
-bash
-Copiar código
-pawncc src/seu_script.pwn
-Mova o .amx para:
+2. Edite ou compile os scripts:
 
-bash
-Copiar código
-/gamemodes/  ou  /filterscripts/
-Adicione no server.cfg:
+    ```bash
+    pawncc src/seu_script.pwn
 
-nginx
-Copiar código
-gamemode0 seu_script
-filterscripts seu_filtroscript
-Inicie o servidor e divirta-se! 😎
+3. Mova o .amx para:
 
-📚 Documentação
+     ```bash
+     /gamemodes/  ou  /filterscripts/
+
+4. Adicione no server.cfg:
+
+      ```nginx
+      gamemode0 seu_script
+      filterscripts seu_filtroscript
+
+5. Inicie o servidor e divirta-se! 😎
+
+---
+
+## 📚 Documentação
 Cada script possui comentários internos explicando o funcionamento.
 A pasta /docs também pode conter manuais e tutoriais extras.
 
 Se quiser, posso gerar documentação automática estilo wiki.
 
-🤝 Contribuindo
+---
+
+## 🤝 Contribuindo
 Contribuições são bem-vindas!
 
 Faça um fork
@@ -90,16 +92,22 @@ Envie um pull request
 
 Aguarde aprovação 🎉
 
-📝 Licença
+---
+
+## 📝 Licença
 Este projeto está sob a licença MIT — permitindo uso livre, inclusive comercial.
 (Se quiser, posso trocar para GPL, CC, Apache, BSD ou outra.)
 
-⭐ Apoie o Projeto
+---
+
+## ⭐ Apoie o Projeto
 Se este repositório te ajudou:
 
 Dê uma estrela ⭐ no Github
 
 Compartilhe com outros devs SA-MP
 
-📬 Contato
+---
+
+## 📬 Contato
 Se quiser ajuda, scripts exclusivos ou otimizações, basta abrir uma Issue ou me chamar!
